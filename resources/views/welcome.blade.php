@@ -9,7 +9,7 @@
             <div class="disclaimer-container">
                 <div class="disclaimer-box p-4 m-4 bg-yellow-300 text-2xl rounded-md">
                     <p>
-                        Ca. DKK 16.000,-
+                        ca. DKK 16.000,-
                     </p>
                 </div>
             </div>
