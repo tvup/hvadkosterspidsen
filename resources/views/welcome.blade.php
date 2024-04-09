@@ -15,10 +15,9 @@
             </div>
         </div>
         <div class="hidden lg:block lg:w-1/2" style="clip-path:polygon(10% 0, 100% 0%, 100% 100%, 0 100%)">
-            <video autoplay="" muted="" loop="true" class="h-full object-cover">
-                <source src="{{ asset('media/videos/demo.webm') }}#t=26,86" type="video/webm">
-                <div class="h-full bg-black opacity-25 -z-10"></div>
-            </video>
+            <img src="{{ asset('media/images/plane.png') }}" alt="Beskrivende tekst" class="h-full object-cover">
+            <div class="h-full bg-black opacity-25 -z-10"></div>
         </div>
+
     </div>
 @endsection
